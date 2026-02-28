@@ -109,7 +109,7 @@ JWT_SECRET=your_super_secret_jwt_key_change_in_production
 JWT_EXPIRE=30d
 
 # Stripe
-STRIPE_SECRET_KEY=REMOVEDxxxxxxxxxxxxxxxxxxxxxxxx
+STRIPE_SECRET_KEY=your_stripe_secret_key_here
 STRIPE_PUBLISHABLE_KEY=REMOVEDxxxxxxxxxxxxxxxxxxxxxxxx
 STRIPE_WEBHOOK_SECRET=whsec_xxxxxxxxxxxxxxxxxxxxxxxx
 
